@@ -1,4 +1,4 @@
-# Análise de ataques por usos na América do Norte entre 1900 e 2020
+# Análise de ataques por ursos na América do Norte entre 1900 e 2020
 
 ##  Sobre o Dataset
 O conjunto de dados utilizados mostra todos os registros de mortes por ataque de ursos pretos, pardos ou polares entre 1900 e 2020 na América do Norte e está disponível em: https://www.kaggle.com/datasets/stealthtechnologies/bear-attacks-north-america
